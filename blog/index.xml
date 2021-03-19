@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on CHOQI CMS</title>
-    <link>https://choqi-githubtest.github.io/web/blog/</link>
+    <link>https://choqi.co.jp/web/blog/</link>
     <description>Recent content in Blogs on CHOQI CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>CHOQI</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 04:35:41 +0000</lastBuildDate><atom:link href="https://choqi-githubtest.github.io/web/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 04:35:41 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test 2</title>
-      <link>https://choqi-githubtest.github.io/web/blog/test-2/</link>
+      <link>https://choqi.co.jp/web/blog/test-2/</link>
       <pubDate>Fri, 19 Mar 2021 04:35:41 +0000</pubDate>
       
-      <guid>https://choqi-githubtest.github.io/web/blog/test-2/</guid>
+      <guid>https://choqi.co.jp/web/blog/test-2/</guid>
       <description>sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura</description>
     </item>
     
     <item>
       <title>test 1</title>
-      <link>https://choqi-githubtest.github.io/web/blog/test-1/</link>
+      <link>https://choqi.co.jp/web/blog/test-1/</link>
       <pubDate>Fri, 19 Mar 2021 04:32:09 +0000</pubDate>
       
-      <guid>https://choqi-githubtest.github.io/web/blog/test-1/</guid>
+      <guid>https://choqi.co.jp/web/blog/test-1/</guid>
       <description>sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura</description>
     </item>
     
     <item>
       <title>桜が好きです。</title>
-      <link>https://choqi-githubtest.github.io/web/blog/%E6%A1%9C%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99/</link>
+      <link>https://choqi.co.jp/web/blog/%E6%A1%9C%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99/</link>
       <pubDate>Fri, 19 Mar 2021 03:35:07 +0000</pubDate>
       
-      <guid>https://choqi-githubtest.github.io/web/blog/%E6%A1%9C%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99/</guid>
+      <guid>https://choqi.co.jp/web/blog/%E6%A1%9C%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99/</guid>
       <description>sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura</description>
     </item>
     
