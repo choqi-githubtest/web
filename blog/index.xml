@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CHOQI CMS</title>
-    <link>https://choqi-githubtest.github.io/web/</link>
-    <description>Recent content on CHOQI CMS</description>
+    <title>Blogs on CHOQI CMS</title>
+    <link>https://choqi-githubtest.github.io/web/blog/</link>
+    <description>Recent content in Blogs on CHOQI CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>CHOQI</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 03:35:07 +0000</lastBuildDate><atom:link href="https://choqi-githubtest.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 03:35:07 +0000</lastBuildDate><atom:link href="https://choqi-githubtest.github.io/web/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>桜が好きです。</title>
       <link>https://choqi-githubtest.github.io/web/blog/%E6%A1%9C%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99/</link>
