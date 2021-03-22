@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>CHOQI</copyright>
-    <lastBuildDate>Mon, 22 Mar 2021 07:38:42 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 07:44:22 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test tile</title>
+      <link>https://choqi.co.jp/web/blog/test-tile/</link>
+      <pubDate>Mon, 22 Mar 2021 07:44:22 +0000</pubDate>
+      
+      <guid>https://choqi.co.jp/web/blog/test-tile/</guid>
+      <description>This is article example</description>
+    </item>
+    
     <item>
       <title>テスト テスト テスト</title>
       <link>https://choqi.co.jp/web/blog/%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88/</link>
