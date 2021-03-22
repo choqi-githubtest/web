@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ニュース on CHOQI CMS</title>
+    <link>https://choqi.co.jp/web/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in ニュース on CHOQI CMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>CHOQI</copyright>
+    <lastBuildDate>Fri, 19 Mar 2021 04:32:09 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログのテスト</title>
+      <link>https://choqi.co.jp/web/blog/test-1/</link>
+      <pubDate>Fri, 19 Mar 2021 04:32:09 +0000</pubDate>
+      
+      <guid>https://choqi.co.jp/web/blog/test-1/</guid>
+      <description>BOLD</description>
+    </item>
+    
+  </channel>
+</rss>
