@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>CHOQI</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 04:47:08 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 07:38:42 +0000</lastBuildDate><atom:link href="https://choqi.co.jp/web/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テスト テスト テスト</title>
+      <link>https://choqi.co.jp/web/blog/%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88/</link>
+      <pubDate>Mon, 22 Mar 2021 07:38:42 +0000</pubDate>
+      
+      <guid>https://choqi.co.jp/web/blog/%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88-%E3%83%86%E3%82%B9%E3%83%88/</guid>
+      <description>テスト テスト テスト テスト テスト </description>
+    </item>
+    
     <item>
       <title>test 3</title>
       <link>https://choqi.co.jp/web/blog/test-3/</link>
@@ -24,15 +33,6 @@
       
       <guid>https://choqi.co.jp/web/blog/test-2/</guid>
       <description>sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura sakura</description>
-    </item>
-    
-    <item>
-      <title>ブログのテスト</title>
-      <link>https://choqi.co.jp/web/blog/test-1/</link>
-      <pubDate>Fri, 19 Mar 2021 04:32:09 +0000</pubDate>
-      
-      <guid>https://choqi.co.jp/web/blog/test-1/</guid>
-      <description>BOLDItalicチョキ株式会社</description>
     </item>
     
     <item>
